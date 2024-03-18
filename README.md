@@ -15,18 +15,19 @@ Download - https://drive.google.com/drive/folders/1PYYQGlvmTB0PahlPzG_ezIqhCi6mr
 10. http://127.0.0.1:8000/docs
 
 --Xampp Setup--
-1.press start on apache and mysql
-2.press admin on mysql (you will open myphpadmin)
-3.create new database
-4.name the database "gearguards"
-5.import gearguards.sql
+1. press start on apache and mysql
+2. press admin on mysql (you will open myphpadmin)
+3. create new database
+4. name the database "gearguards"
+5. import gearguards.sql
+   
 
 --done--
 
 --STATUS OF BACKEND--
 
 03/16/2024 - Database And BackEnd Connected
---
+//
 03/18/2024 - 3/5 CRUD OPERATIONS COMPLETE 
 
 
